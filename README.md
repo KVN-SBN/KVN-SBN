@@ -1,6 +1,6 @@
 # Kevin Sebastian 
 
-[View My Resume](https://github.com/KVN-SBN/KVN-SBN/blob/main/KEVIN%20SEBASTIAN.pdf)
+[View My Resume](https://github.com/KVN-SBN/KVN-SBN/blob/main/Kevin_Sebastian_Resume.pdf)
 
 
 ### 💡 CSE Undergrad | GATE 2025 Qualified  
