@@ -43,13 +43,13 @@
 
 ### 🌱 Currently Learning
 - Bootstrap
-- Express.js
-- NodeJS
+- Java
+- SpringBoot
 - WordPress
 - Netlify
 - MongoDB
 - FireBase
-- Microsoft Azure
+- Amazone Aws
 
 ---
 
