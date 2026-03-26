@@ -1,61 +1,97 @@
-# Kevin Sebastian 
+# Kevin Sebastian
 
-[View My Resume](https://github.com/KVN-SBN/KVN-SBN/blob/main/Kevin_Sebastian_Resume.pdf)
+### 🏗️ Backend Engineer | Aspiring Solutions Architect | GATE 2025 Qualified
 
+> Building scalable systems, cloud-native applications, and real-world tech solutions.
 
-### 💡 CSE Undergrad | GATE 2025 Qualified  
-> Self-taught creative and problem solver, extremely enthusiastic about tech and innovation.
-
-> Passionate about crafting sleek web apps, solving real-world problems, and building meaningful digital experiences.
+---
 
 ### 🚀 About Me
-- 🎓 B.Tech in Computer Science, Government Engineering College Wayanad (2021–2025)
-- 👨‍💻 Former Frontend Developer Intern at WYND Technologies (Angular | REST APIs | UI Optimization)
-- 🧠 Problem Solver with fundamentals in C, Python, SQL & Agile practices
-- 🌱 Constantly learning and growing – currently exploring React & System Design
+
+* 🎓 B.Tech in Computer Science, Government Engineering College Wayanad (2021–2025)
+* 💼 Software Engineer @ Cronlux Technologies (IoT Platform – Microservices Architecture)
+* ⚙️ Backend Engineer specializing in **Spring Boot, Kafka, MQTT, Redis, AWS**
+* 🧠 Strong in **System Design, API Design, and Scalable Architectures**
+* 🤝 Experienced in **cross-functional collaboration** (Firmware, Mobile, Backend teams)
+* 🎯 Career goal: Transition into **Solutions Architect / System Design roles**
 
 ---
 
 ### 🏆 Achievements
-![GATE Qualified](https://img.shields.io/badge/GATE%202025-Qualified-blue?style=flat-square&logo=codeforces&logoColor=white)
-![AIR 19312](https://img.shields.io/badge/AIR-19312-blue?style=flat-square)
-![Score 364](https://img.shields.io/badge/Score-364-blue?style=flat-square)
+
+* 🥇 **GATE 2025 Qualified** (AIR 19312, Score 364)
+* 🎤 Head, ISTE CSE Forum — Led technical events, mentoring & workshops
+
+---
+
+### 🏗️ Key Projects
+
+#### 🔹 Cronlux – Cloud IoT Platform
+
+* Designed **scalable microservices architecture** for real-time device communication
+* Implemented **event-driven systems using Kafka & MQTT**
+* Built backend services with **Spring Boot + AWS deployment**
+
+#### 🔹 Cronlux Website
+
+* Designed & deployed product website using **React + Vite + Vercel**
+
+#### 🔹 Film Finance Platform
+
+* Developed **frontend modules + REST API integrations**
+* Worked on cross-layer debugging (Angular + Express)
+
+#### 🔹 Linux Process Monitor
+
+* Built system-level monitoring tool using **C + Qt**
 
 ---
 
 ### 🔧 Tech Stack
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
-![SQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-000000?style=flat-square&logo=linux&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+
+#### ⚙️ Backend & Architecture
+
+* Java, Spring Boot, REST APIs, Microservices
+* System Design, API Design, Scalable Systems
+
+#### 📡 Messaging & Streaming
+
+* Apache Kafka, MQTT
+
+#### ☁️ Cloud & DevOps
+
+* AWS (EC2, ECS), Docker, Vercel
+
+#### 🗄️ Databases
+
+* MySQL, PostgreSQL, Redis
+
+#### 🎨 Frontend
+
+* Angular, React
+
+#### 🛠️ Tools
+
+* Git, Postman, JMeter, Jira, Linux
 
 ---
 
 ### 🌱 Currently Learning
-- Bootstrap
-- Java
-- SpringBoot
-- WordPress
-- Netlify
-- MongoDB
-- FireBase
-- Amazone Aws
+
+* Advanced **System Design & Architecture Patterns**
+* AWS (Cloud Architecture & Best Practices)
+* Backend performance optimization & scaling
 
 ---
 
+### 📬 Connect With Me
 
-### 📬 Connect With Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kevinsebastian-739786349/)  
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/kvn_sbn/)
+* 💼 [LinkedIn](https://www.linkedin.com/in/kevinsebastiandev/)
+* 💻 [GitHub](https://github.com/KVN-SBN)
+* 📸 [Instagram](https://www.instagram.com/kvn_sbn/)
 
 ---
+
+### ⚡ Fun Fact
+
+> I enjoy designing systems as much as building them — always thinking *“how would this scale?”*
