@@ -13,7 +13,7 @@
 * ⚙️ Backend Engineer specializing in **Spring Boot, Kafka, MQTT, Redis, AWS**
 * 🧠 Strong in **System Design, API Design, and Scalable Architectures**
 * 🤝 Experienced in **cross-functional collaboration** (Firmware, Mobile, Backend teams)
-* 🎯 Interested in building scalable systems and exploring how emerging technologies shape products, businesses, and society.🎯 Career goal: Transition into **Solutions Architect / System Design roles**
+* 🎯 Interested in building scalable systems and exploring how emerging technologies shape products, businesses, and society.
 
 ---
 
